@@ -1,0 +1,552 @@
+{
+  "inspection_date": "2026-11-19",
+  "render_engine": "LibreOffice PDF export + Poppler rasterization",
+  "render_caveat": "Some source fonts were not installed; rendered line breaks and glyphs can differ. Font and color records come from source OOXML.",
+  "sources": [
+    {
+      "id": "a",
+      "file_name": "001重点研发计划（太赫兹运用+蓝色）.pptx",
+      "sha256": "0bd8112b5438e94aabe127fbd9097705fbca69bca56c48c0f03e2cba3b43c2ab",
+      "page_count": 19,
+      "canvas_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "direct_rgb_frequency": [
+        [
+          "C00000",
+          128
+        ],
+        [
+          "000000",
+          59
+        ],
+        [
+          "FFFFFF",
+          14
+        ],
+        [
+          "6EC8AA",
+          10
+        ],
+        [
+          "771395",
+          9
+        ],
+        [
+          "1E2B4D",
+          7
+        ],
+        [
+          "005DA2",
+          7
+        ],
+        [
+          "F3F3F7",
+          6
+        ],
+        [
+          "D7000F",
+          5
+        ],
+        [
+          "0B4FA1",
+          4
+        ],
+        [
+          "002060",
+          3
+        ],
+        [
+          "063078",
+          2
+        ],
+        [
+          "FFFF00",
+          1
+        ]
+      ],
+      "font_frequency": [
+        [
+          "+mj-ea",
+          342
+        ],
+        [
+          "思源黑体 CN Bold",
+          212
+        ],
+        [
+          "+mn-ea",
+          194
+        ],
+        [
+          "思源黑体 CN Regular",
+          58
+        ],
+        [
+          "Roboto Regular",
+          56
+        ],
+        [
+          "思源宋体 CN Heavy",
+          54
+        ],
+        [
+          "Roboto Bold",
+          54
+        ],
+        [
+          "思源黑体 CN Heavy",
+          50
+        ],
+        [
+          "思源黑体 CN Medium",
+          44
+        ],
+        [
+          "微软雅黑",
+          43
+        ],
+        [
+          "等线",
+          38
+        ],
+        [
+          "+mj-lt",
+          35
+        ],
+        [
+          "Roboto",
+          31
+        ],
+        [
+          "+mn-lt",
+          29
+        ],
+        [
+          "Calibri",
+          5
+        ]
+      ],
+      "font_size_hundredths_pt_frequency": [
+        [
+          "1400",
+          67
+        ],
+        [
+          "1600",
+          60
+        ],
+        [
+          "2400",
+          42
+        ],
+        [
+          "2800",
+          29
+        ],
+        [
+          "2000",
+          21
+        ],
+        [
+          "3600",
+          14
+        ],
+        [
+          "2200",
+          13
+        ],
+        [
+          "1800",
+          11
+        ],
+        [
+          "4000",
+          5
+        ],
+        [
+          "6600",
+          5
+        ],
+        [
+          "8800",
+          3
+        ],
+        [
+          "4400",
+          1
+        ],
+        [
+          "1200",
+          1
+        ]
+      ],
+      "retained_pages": [
+        {
+          "page": 1,
+          "asset": "references/a-cover.png"
+        },
+        {
+          "page": 2,
+          "asset": "references/a-agenda.png"
+        },
+        {
+          "page": 3,
+          "asset": "references/a-background.png"
+        },
+        {
+          "page": 4,
+          "asset": "references/a-applications.png"
+        },
+        {
+          "page": 5,
+          "asset": "references/a-comparison-stages.png"
+        },
+        {
+          "page": 7,
+          "asset": "references/a-research.png"
+        },
+        {
+          "page": 8,
+          "asset": "references/a-parallel.png"
+        },
+        {
+          "page": 10,
+          "asset": "references/a-evidence.png"
+        },
+        {
+          "page": 11,
+          "asset": "references/a-method.png"
+        },
+        {
+          "page": 12,
+          "asset": "references/a-vertical-flow.png"
+        },
+        {
+          "page": 16,
+          "asset": "references/a-label-rows.png"
+        },
+        {
+          "page": 18,
+          "asset": "references/a-risk.png"
+        },
+        {
+          "page": 19,
+          "asset": "references/a-closing.png"
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "file_name": "基于大语言模型的移动APP个保合规审计系统-260818.pptx",
+      "sha256": "15dd86b26a7ab7a7559c51a3e06548ef953bfca2eefef0abd3ba62d794d4b3d2",
+      "page_count": 28,
+      "canvas_emu": {
+        "cx": "12192000",
+        "cy": "6858000"
+      },
+      "direct_rgb_frequency": [
+        [
+          "A6BCE5",
+          192
+        ],
+        [
+          "0070C0",
+          121
+        ],
+        [
+          "FFFFFF",
+          103
+        ],
+        [
+          "000000",
+          82
+        ],
+        [
+          "C00000",
+          55
+        ],
+        [
+          "004EA2",
+          50
+        ],
+        [
+          "FF0000",
+          26
+        ],
+        [
+          "002060",
+          12
+        ],
+        [
+          "1C1C1C",
+          9
+        ],
+        [
+          "EAF2FF",
+          8
+        ],
+        [
+          "003DA1",
+          7
+        ],
+        [
+          "003B9D",
+          7
+        ],
+        [
+          "D7DDE7",
+          7
+        ],
+        [
+          "1269D8",
+          6
+        ],
+        [
+          "27327B",
+          4
+        ],
+        [
+          "4E60EF",
+          4
+        ],
+        [
+          "EE4D88",
+          4
+        ],
+        [
+          "003A99",
+          4
+        ],
+        [
+          "FCEDEF",
+          3
+        ],
+        [
+          "4D4D4D",
+          3
+        ],
+        [
+          "BBD2FA",
+          3
+        ],
+        [
+          "4F80BD",
+          3
+        ],
+        [
+          "009BD2",
+          2
+        ],
+        [
+          "106ABC",
+          2
+        ],
+        [
+          "5277BA",
+          2
+        ]
+      ],
+      "font_frequency": [
+        [
+          "微软雅黑",
+          1818
+        ],
+        [
+          "+mn-ea",
+          61
+        ],
+        [
+          "+mn-lt",
+          54
+        ],
+        [
+          "Calibri",
+          22
+        ],
+        [
+          "宋体",
+          20
+        ],
+        [
+          "Noto Sans CJK SC",
+          19
+        ],
+        [
+          "黑体",
+          14
+        ],
+        [
+          "Times New Roman",
+          10
+        ],
+        [
+          "Arial",
+          2
+        ],
+        [
+          "Comic Sans MS Regular",
+          1
+        ]
+      ],
+      "font_size_hundredths_pt_frequency": [
+        [
+          "1600",
+          87
+        ],
+        [
+          "1100",
+          64
+        ],
+        [
+          "2000",
+          61
+        ],
+        [
+          "1200",
+          58
+        ],
+        [
+          "3200",
+          51
+        ],
+        [
+          "2800",
+          45
+        ],
+        [
+          "1400",
+          38
+        ],
+        [
+          "1010",
+          24
+        ],
+        [
+          "2400",
+          18
+        ],
+        [
+          "1500",
+          14
+        ],
+        [
+          "2200",
+          13
+        ],
+        [
+          "1800",
+          8
+        ],
+        [
+          "1050",
+          7
+        ],
+        [
+          "1060",
+          7
+        ],
+        [
+          "1230",
+          6
+        ],
+        [
+          "1120",
+          5
+        ],
+        [
+          "1240",
+          4
+        ],
+        [
+          "6000",
+          3
+        ],
+        [
+          "1000",
+          3
+        ],
+        [
+          "1080",
+          3
+        ]
+      ],
+      "retained_pages": [
+        {
+          "page": 1,
+          "asset": "references/b-cover.png"
+        },
+        {
+          "page": 2,
+          "asset": "references/b-agenda.png"
+        },
+        {
+          "page": 4,
+          "asset": "references/b-challenges.png"
+        },
+        {
+          "page": 5,
+          "asset": "references/b-pipeline.png"
+        },
+        {
+          "page": 7,
+          "asset": "references/b-system.png"
+        },
+        {
+          "page": 9,
+          "asset": "references/b-painpoints.png"
+        },
+        {
+          "page": 10,
+          "asset": "references/b-method-overview.png"
+        },
+        {
+          "page": 11,
+          "asset": "references/b-method.png"
+        },
+        {
+          "page": 12,
+          "asset": "references/b-point-rows.png"
+        },
+        {
+          "page": 13,
+          "asset": "references/b-analysis-painpoints.png"
+        },
+        {
+          "page": 14,
+          "asset": "references/b-mapping-overview.png"
+        },
+        {
+          "page": 15,
+          "asset": "references/b-formula.png"
+        },
+        {
+          "page": 16,
+          "asset": "references/b-evidence-chain.png"
+        },
+        {
+          "page": 18,
+          "asset": "references/b-experiment.png"
+        },
+        {
+          "page": 19,
+          "asset": "references/b-validation.png"
+        },
+        {
+          "page": 22,
+          "asset": "references/b-layered-architecture.png"
+        },
+        {
+          "page": 23,
+          "asset": "references/b-demo.png"
+        },
+        {
+          "page": 28,
+          "asset": "references/b-closing.png"
+        }
+      ]
+    }
+  ],
+  "revision_focus": "Reinspected full-size A01/A02/A19 and B01/B02/B28; retained original closing renders and codified project-report cover/agenda/closing structure, page-count and copy approval, and layout/connector repair checks."
+}

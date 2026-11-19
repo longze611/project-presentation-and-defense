@@ -1,0 +1,313 @@
+{
+  "purpose": "Select and actually attach original reference images for each generated academic slide. File names in text prompts alone are insufficient.",
+  "selection": {
+    "originals_per_page": "1-2 structurally relevant original pages",
+    "calibrated_sample_per_page": "0-1 current-deck sample in addition to originals",
+    "priority": [
+      "content relation",
+      "presentation pattern",
+      "page geometry",
+      "color and typography"
+    ],
+    "avoid": "Do not use a whole-deck miniature montage as the only primary reference.",
+    "project_report_special_pages": "Use a consistent A01/A02/A19 or B01/B02/B28 family for cover/agenda/closing; attach the corresponding actual image to each generation request."
+  },
+  "references": [
+    {
+      "id": "A01",
+      "source": "a",
+      "slide": 1,
+      "image": "assets/references/a-cover.png",
+      "roles": [
+        "cover"
+      ]
+    },
+    {
+      "id": "A02",
+      "source": "a",
+      "slide": 2,
+      "image": "assets/references/a-agenda.png",
+      "roles": [
+        "agenda"
+      ]
+    },
+    {
+      "id": "A03",
+      "source": "a",
+      "slide": 3,
+      "image": "assets/references/a-background.png",
+      "roles": [
+        "background",
+        "concept-position"
+      ]
+    },
+    {
+      "id": "A04",
+      "source": "a",
+      "slide": 4,
+      "image": "assets/references/a-applications.png",
+      "roles": [
+        "applications",
+        "parallel-evidence"
+      ]
+    },
+    {
+      "id": "A05",
+      "source": "a",
+      "slide": 5,
+      "image": "assets/references/a-comparison-stages.png",
+      "roles": [
+        "comparison",
+        "stages"
+      ]
+    },
+    {
+      "id": "A07",
+      "source": "a",
+      "slide": 7,
+      "image": "assets/references/a-research.png",
+      "roles": [
+        "category-labels",
+        "limitations"
+      ]
+    },
+    {
+      "id": "A08",
+      "source": "a",
+      "slide": 8,
+      "image": "assets/references/a-parallel.png",
+      "roles": [
+        "parallel-tasks"
+      ]
+    },
+    {
+      "id": "A10",
+      "source": "a",
+      "slide": 10,
+      "image": "assets/references/a-evidence.png",
+      "roles": [
+        "evidence",
+        "objective"
+      ]
+    },
+    {
+      "id": "A11",
+      "source": "a",
+      "slide": 11,
+      "image": "assets/references/a-method.png",
+      "roles": [
+        "method-evidence",
+        "two-columns"
+      ]
+    },
+    {
+      "id": "A12",
+      "source": "a",
+      "slide": 12,
+      "image": "assets/references/a-vertical-flow.png",
+      "roles": [
+        "vertical-flow",
+        "evidence"
+      ]
+    },
+    {
+      "id": "A16",
+      "source": "a",
+      "slide": 16,
+      "image": "assets/references/a-label-rows.png",
+      "roles": [
+        "blue-label-rows",
+        "capability"
+      ]
+    },
+    {
+      "id": "A18",
+      "source": "a",
+      "slide": 18,
+      "image": "assets/references/a-risk.png",
+      "roles": [
+        "category-matrix",
+        "risk"
+      ]
+    },
+    {
+      "id": "A19",
+      "source": "a",
+      "slide": 19,
+      "image": "assets/references/a-closing.png",
+      "roles": [
+        "closing"
+      ]
+    },
+    {
+      "id": "B01",
+      "source": "b",
+      "slide": 1,
+      "image": "assets/references/b-cover.png",
+      "roles": [
+        "cover"
+      ]
+    },
+    {
+      "id": "B02",
+      "source": "b",
+      "slide": 2,
+      "image": "assets/references/b-agenda.png",
+      "roles": [
+        "agenda"
+      ]
+    },
+    {
+      "id": "B04",
+      "source": "b",
+      "slide": 4,
+      "image": "assets/references/b-challenges.png",
+      "roles": [
+        "parallel-challenges"
+      ]
+    },
+    {
+      "id": "B05",
+      "source": "b",
+      "slide": 5,
+      "image": "assets/references/b-pipeline.png",
+      "roles": [
+        "input-process-output"
+      ]
+    },
+    {
+      "id": "B07",
+      "source": "b",
+      "slide": 7,
+      "image": "assets/references/b-system.png",
+      "roles": [
+        "system-overview",
+        "module-focus"
+      ]
+    },
+    {
+      "id": "B09",
+      "source": "b",
+      "slide": 9,
+      "image": "assets/references/b-painpoints.png",
+      "roles": [
+        "problem-plus-subsystem"
+      ]
+    },
+    {
+      "id": "B10",
+      "source": "b",
+      "slide": 10,
+      "image": "assets/references/b-method-overview.png",
+      "roles": [
+        "annotated-method",
+        "side-points"
+      ]
+    },
+    {
+      "id": "B11",
+      "source": "b",
+      "slide": 11,
+      "image": "assets/references/b-method.png",
+      "roles": [
+        "mechanism-steps",
+        "side-points"
+      ]
+    },
+    {
+      "id": "B12",
+      "source": "b",
+      "slide": 12,
+      "image": "assets/references/b-point-rows.png",
+      "roles": [
+        "blue-label-rows",
+        "parallel-dimensions"
+      ]
+    },
+    {
+      "id": "B13",
+      "source": "b",
+      "slide": 13,
+      "image": "assets/references/b-analysis-painpoints.png",
+      "roles": [
+        "problem-plus-subsystem"
+      ]
+    },
+    {
+      "id": "B14",
+      "source": "b",
+      "slide": 14,
+      "image": "assets/references/b-mapping-overview.png",
+      "roles": [
+        "annotated-method"
+      ]
+    },
+    {
+      "id": "B15",
+      "source": "b",
+      "slide": 15,
+      "image": "assets/references/b-formula.png",
+      "roles": [
+        "formula",
+        "structured-evidence"
+      ]
+    },
+    {
+      "id": "B16",
+      "source": "b",
+      "slide": 16,
+      "image": "assets/references/b-evidence-chain.png",
+      "roles": [
+        "evidence-chain",
+        "formula"
+      ]
+    },
+    {
+      "id": "B18",
+      "source": "b",
+      "slide": 18,
+      "image": "assets/references/b-experiment.png",
+      "roles": [
+        "results",
+        "table-plus-chart"
+      ]
+    },
+    {
+      "id": "B19",
+      "source": "b",
+      "slide": 19,
+      "image": "assets/references/b-validation.png",
+      "roles": [
+        "validation",
+        "comparison-table"
+      ]
+    },
+    {
+      "id": "B22",
+      "source": "b",
+      "slide": 22,
+      "image": "assets/references/b-layered-architecture.png",
+      "roles": [
+        "layered-architecture"
+      ]
+    },
+    {
+      "id": "B23",
+      "source": "b",
+      "slide": 23,
+      "image": "assets/references/b-demo.png",
+      "roles": [
+        "screenshot-explanation"
+      ]
+    },
+    {
+      "id": "B28",
+      "source": "b",
+      "slide": 28,
+      "image": "assets/references/b-closing.png",
+      "roles": [
+        "closing"
+      ]
+    }
+  ]
+}

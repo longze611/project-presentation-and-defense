@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目答辩汇报ppt"
+  short_description: "先确认页数与语言并测试生图，支持全局API配置或跳过，按双参考制作可编辑学术PPT"
+  default_prompt: "请使用 $academic-blue-defense，先确认页数和文案语言并测试Image 2，失败时让我选择弹窗配置全局API或跳过；文案审定后，按双参考的配色、版式和流程分点方式生成图片并重建可编辑PPT。"
