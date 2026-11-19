@@ -8,7 +8,7 @@
 
 ### 方式一：下载 ZIP，让 Codex 安装
 
-[下载本仓库 ZIP](https://github.com/longze611/academic-blue-defense/archive/refs/heads/main.zip)，将文件提供给 Codex，并发送：
+[下载本仓库 ZIP](https://github.com/longze611/project-presentation-and-defense/archive/refs/heads/main.zip)，将文件提供给 Codex，并发送：
 
 ```text
 请将这个 ZIP 中的 academic-blue-defense 技能安装到我的 Codex 技能目录。
@@ -20,7 +20,7 @@
 
 ```text
 请从这个 Git 仓库安装 academic-blue-defense 技能：
-https://github.com/longze611/academic-blue-defense.git
+https://github.com/longze611/project-presentation-and-defense.git
 ```
 
 安装后重新打开 Codex 会话，或按当前客户端方式刷新技能列表。
