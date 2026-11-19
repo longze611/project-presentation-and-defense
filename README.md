@@ -1,4 +1,4 @@
-# Academic Blue Defense
+# Project Presentation and Defense
 
 用于 Codex 的蓝白风格学术 PPT 技能，参考两份真实报告的配色、版式，以及流程图和分点表达方式，适合科研项目、开题答辩、文献汇报、组会和学术会议。
 
