@@ -35,16 +35,18 @@
 已有同名技能时先比较，保留本地修改。
 ```
 
-安装后在新会话中用 `/skills` 或输入 `$academic-blue-defense` 查找；未出现时重启 Codex。建议切换到另一项目再确认，以检查全局可用性。
+安装后在新会话中输入 `/skill`（部分版本为 `/skills`），在列表中查找 `academic-blue-defense`；未出现时重启 Codex。建议切换到另一项目再确认，以检查全局可用性。
 
 用户级目录依据 [OpenAI 官方技能文档](https://developers.openai.com/codex/skills/)。本仓库名为 `project-presentation-and-defense`，技能标识及安装文件夹仍为 `academic-blue-defense`。
 
 ## 使用方式
 
-向 Codex 提供论文 PDF 或项目材料，并发送：
+1. 在 Codex 输入框中输入 `/skill`（部分版本为 `/skills`），调出技能列表。
+2. 搜索并选择 `academic-blue-defense`（显示名称：项目答辩汇报ppt）。
+3. 上传论文 PDF 或项目材料，再发送具体需求，例如：
 
 ```text
-请使用 $academic-blue-defense，根据这份材料制作 12 页中文学术汇报 PPT。
+请根据这份材料制作 12 页中文学术汇报 PPT。
 先给我逐页结构和文案，确认后再制作。
 ```
 
